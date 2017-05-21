@@ -42,10 +42,10 @@ public class CollectionBasics {
 	}
 		 public static void editlist(Collection<String> l1, Collection<String> l2){
 			 
-			 Iterator<String> it = l1.iterator(); // iterator 
-			 while(it.hasNext()){
+			 Iterator<String> iterat = l1.iterator(); // iterator 
+			 while(iterat.hasNext()){
 				 
-				 if (l2.contains(it.next())) //if item is in list 2 remove it from list 1
+				 if (l2.contains(iterat.next())) //if item is in list 2 remove it from list 1
 				 it.remove();
 			 }
 			 
