@@ -46,7 +46,7 @@ public class CollectionBasics {
 			 while(iterat.hasNext()){
 				 
 				 if (l2.contains(iterat.next())) //if item is in list 2 remove it from list 1
-				 it.remove();
+				 iteart.remove();
 			 }
 			 
 		 }
