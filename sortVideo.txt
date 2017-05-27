@@ -1,7 +1,0 @@
-https://www.cs.cmu.edu/~adamchik/15-121/lectures/Sorting%20Algorithms/sorting.html
-
-https://www.youtube.com/watch?v=DFG-XuyPYUQ insertion sort
-
-https://www.youtube.com/watch?v=EeQ8pwjQxTM Merge sort
-
-https://www.youtube.com/watch?v=8Kp-8OGwphY bubble sort
